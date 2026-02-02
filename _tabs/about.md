@@ -14,7 +14,12 @@ Having worked with many computer languages, I would say that my most favorites a
 - [RootMe](https://www.root-me.org/ppairnode?lang=en)
 
 ## Certifications
-<img style="width: 50px; height:auto" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/139840937"><img style="width: 50px; height:auto" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/139840920"> [OSCP Certified](https://credentials.offsec.com/be415bec-3129-48a9-be87-f20251bd3b98)
+<table style="border: none;">
+    <tr>
+    <td style="border: none;"><img style="width: 50px; height:auto" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/139840937" alt="Accredible OSCP+"><img style="width: 50px; height:auto" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/139840920" alt="Accredible OSCP"></td>
+    <td style="border: none;"><a href="https://credentials.offsec.com/be415bec-3129-48a9-be87-f20251bd3b98">OSCP Certified</a></td>
+    </tr>
+</table>
 
 
 ---
